@@ -3,6 +3,7 @@ body {
     font-family: Poppins, sans-serif; margin: 20px;
     box-sizing: border-box;
     background-color: #1d2b3a;
+    background-image: url(img/bg.jpg);
 }
 
 .container {
